@@ -1,0 +1,4 @@
+'should calculate for registered and under limit',100060,true,30
+'should calculate for registered and over limit',1_000_000_60,true,500
+'should calculate for not registered and under limit',100060,false,10
+'should calculate for not registered and over limit',1_000_000_60,false,500
